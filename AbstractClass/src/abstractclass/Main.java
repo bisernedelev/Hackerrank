@@ -12,7 +12,6 @@ abstract class Book {
     String getTitle() {
         return title;
     }
-
 }
 
 class MyBook extends Book {
