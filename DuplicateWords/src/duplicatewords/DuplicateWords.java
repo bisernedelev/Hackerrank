@@ -37,5 +37,4 @@ public class DuplicateWords {
             testCases--;
         }
     }
-
 }
