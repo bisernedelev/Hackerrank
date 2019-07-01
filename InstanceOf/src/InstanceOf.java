@@ -19,7 +19,8 @@ public class InstanceOf{
          if(element instanceof Hacker)
             c++;
       }
-      String ret = Integer.toString(a)+" "+ Integer.toString(b)+" "+ Integer.toString(c);
+    
+	   String ret = Integer.toString(a)+" "+ Integer.toString(b)+" "+ Integer.toString(c);
       return ret;
    }
 
