@@ -7,10 +7,7 @@ package datatypes;
 
 import java.util.Scanner;
 
-/**
- *
- * @author bibo
- */
+
 public class Datatypes {
 
     /**
