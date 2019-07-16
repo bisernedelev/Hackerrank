@@ -33,7 +33,6 @@ public class JavaLoopsII {
             for (int c = 0; c < n; c++) {
                 for (int d = 0; d < zav; d++) {
 
-
                     int sum1=c1*b;                                                                      // 1.2=2
                     c1*=2;                                                                              //1.2+2.2 = 6
                     korensuma++;                                                                         //1.2+2.2+3.2=14
