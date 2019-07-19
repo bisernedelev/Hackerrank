@@ -21,6 +21,7 @@ public class StringsIntroduction {
         String A=sc.next();
         String B=sc.next();
        
+   
         System.out.println(A.length()+B.length());
         if (A.compareTo(B)<1) {
             System.out.println("No");
