@@ -8,7 +8,8 @@ class Hacker{}
 
 public class InstanceOf{
 	
-   static String count(ArrayList mylist){
+
+	static String count(ArrayList mylist){
       int a = 0,b = 0,c = 0;
       for(int i = 0; i < mylist.size(); i++){
          Object element=mylist.get(i);
