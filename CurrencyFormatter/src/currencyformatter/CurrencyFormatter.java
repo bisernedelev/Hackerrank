@@ -24,6 +24,7 @@ public class CurrencyFormatter {
         double payment = scanner.nextDouble();
         scanner.close();
 
+        
         NumberFormat lp = NumberFormat.getCurrencyInstance(Locale.US);
         NumberFormat format = new DecimalFormat("##,###.##");
         NumberFormat lpch = NumberFormat.getCurrencyInstance(Locale.CHINA);
